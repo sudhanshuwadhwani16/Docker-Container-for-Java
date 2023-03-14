@@ -9,7 +9,7 @@ Just download the files and add your working directory to Dockerfile.
 Open terminal, go to the path of Dockerfile and run the comand :
 docker build -t myjavaimage
 
-Once the image is creted, to check the image run the command :
+Once the image is creted, to check the image, run the command :
 docker ps -a
 
 To run the image :
