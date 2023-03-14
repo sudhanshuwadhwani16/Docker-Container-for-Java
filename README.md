@@ -13,6 +13,6 @@ Once the image is creted, to check the image, run the command :
 docker ps -a
 
 To run the image :
-docker run myjavaimage
+docker run --name javaProject myjavaimage
 
 Your container is created!
