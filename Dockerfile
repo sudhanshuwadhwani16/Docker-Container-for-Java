@@ -9,3 +9,5 @@ RUN javac Test.java
 CMD [ "java","Test" ] 
 
 CLIENT_SECRET = "abctewundueud21$23h23u"
+
+PAT_Token: "uhsuabdubue$aduffewf"
