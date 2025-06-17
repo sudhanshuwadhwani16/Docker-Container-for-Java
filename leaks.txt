@@ -1,0 +1,11 @@
+# Fake AWS Secret Key
+aws_secret_access_key = "AKIAIOSFODNN7EXAMPLE"
+
+# Fake GitHub Token
+ghp_1234567890abcdefghijklmnopqrstuvwxyzABCD
+
+# Fake Slack Token
+xoxb-123456789012-1234567890123-AbCdEfGhIjKlMnOpQrStUvWx
+
+# Fake JWT Token
+eyJhbGciOiJIUzI1NiIsI
