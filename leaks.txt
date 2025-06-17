@@ -5,7 +5,7 @@ aws_secret_access_key = "removed"
 removed
 
 # Fake Slack Token
-removed leak
+xoxb-123456789012-1234567890123-AbCdEfGhIjKlMnOpQrStUvWx
 
 # Fake JWT Token
 removed
