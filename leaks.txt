@@ -1,11 +1,11 @@
 # Fake AWS Secret Key
-aws_secret_access_key = "AKIAIOSFODNN7EXAMPLE"
+aws_secret_access_key = "removed"
 
 # Fake GitHub Token
-ghp_1234567890abcdefghijklmnopqrstuvwxyzABCD
+removed
 
 # Fake Slack Token
 removed leak
 
 # Fake JWT Token
-eyJhbGciOiJIUzI1NiIsI
+removed

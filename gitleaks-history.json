@@ -1,0 +1,23 @@
+[
+ {
+  "RuleID": "slack-bot-token",
+  "Description": "Identified a Slack Bot token, which may compromise bot integrations and communication channel security.",
+  "StartLine": 8,
+  "EndLine": 8,
+  "StartColumn": 2,
+  "EndColumn": 57,
+  "Match": "xoxb-123456789012-1234567890123-AbCdEfGhIjKlMnOpQrStUvWx",
+  "Secret": "xoxb-123456789012-1234567890123-AbCdEfGhIjKlMnOpQrStUvWx",
+  "File": "leaks.txt",
+  "SymlinkFile": "",
+  "Commit": "07e322357e487e70bbec01faa795e01dab28b045",
+  "Link": "https://github.com/sudhanshuwadhwani16/Docker-Container-for-Java/blob/07e322357e487e70bbec01faa795e01dab28b045/leaks.txt#L8",
+  "Entropy": 4.9812,
+  "Author": "Sudhanshu Wadhwani",
+  "Email": "77379202+sudhanshuwadhwani16@users.noreply.github.com",
+  "Date": "2025-06-17T06:21:16Z",
+  "Message": "Create leaks.txt\n\nCreating fake leaks file to test gitleaks using cmd",
+  "Tags": [],
+  "Fingerprint": "07e322357e487e70bbec01faa795e01dab28b045:leaks.txt:slack-bot-token:8"
+ }
+]
